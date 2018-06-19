@@ -48,7 +48,7 @@ body
 }
 #container
 {
-	width:1120px; margin:0px 100px 0px 100px; border:0px solid #F00; float:left;
+	margin:0px 100px 0px 100px; border:0px solid #F00; float:left;
 }
 .emailimg
 {
@@ -216,11 +216,11 @@ body
 }
 .footerfirst_area
 {
-	width:250px; float:left; margin:0px 0px 20px 0px ; padding:0px; border:0px solid #0F0;
+	width:20%; float:left; margin:0px 0px 20px 0px ; padding:0px; border:0px solid #0F0;
 }
 .footersecond_area
 {
-	width:250px; float:left; margin:0px 0px 20px 35px; padding:0px; border:0px solid #0F0;
+	width:20%; float:left; margin:0px 0px 20px 35px; padding:0px; border:0px solid #0F0;
 }
 .aboutsilky
 {
